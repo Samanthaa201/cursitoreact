@@ -6,7 +6,7 @@ import TabButton from './components/TabButton.jsx';
 
 function App() {
   function handleSelect() {
-    console.log('Ay, me pinchaste!');
+    console.log('Ay, me pinchaste! >.<');
 }
   return (
     <div>
